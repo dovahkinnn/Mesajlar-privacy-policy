@@ -4,7 +4,11 @@ This Privacy Policy outlines how our app, "Mesajlar," uses and protects your per
 
 Information Collection and Use
 
-Our app requires SMS permissions to function properly as a default SMS application. These permissions enable "Mesajlar" to send and receive SMS messages and access message content and contact numbers. We do not collect or store any other personal information, such as your name, email address, or location.
+Our app requires SMS permissions to function properly as a default SMS application. These permissions enable "Mesajlar" to send and receive SMS messages, access message content and contact numbers, and analyze incoming messages to identify potential spam messages.
+
+When a spam message is identified, users have the option to report it by clicking on the spam button located in the top right corner of the message screen. The message is then moved to a separate spam folder within the app.
+
+We do not collect or store any other personal information, such as your name, email address, or location.
 
 We may use the information we collect to:
 
@@ -26,4 +30,6 @@ We reserve the right to update or modify this Privacy Policy at any time, and we
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at sherlockhakan72@gmail.com
+If you have any questions or concerns about this Privacy Policy or the app's permissions, please contact us at sherlockhakan72@gmail.com
+
+I hope this updated privacy policy is helpful to you. However, please note that this is just an example and you should create a privacy policy that is tailored to the features of your app and complies with legal requirements.
